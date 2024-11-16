@@ -1,7 +1,2 @@
 username;displayname;password;email;groups;subadmin;quota
-adoe;Alice Doe;alicepassword0001;;Lehrkraefte,SchuelerInnen;Lehrkraefte;5 GB
-broe;Bob Roe;bobpassword0001;;Lehrkraefte,jg01a;jg01a;100 MB
-csmith;Chris Smith;;;Lehrkraefte,SchuelerInnen;SchuelerInnen;1 GB
-Jhößer;Jörn Hößer;lkajsdflj98798klasdf;;Lehrkraefte;;1GB
-Åçì.Œñšú;Åçì Œñšú;lökajsdfoiwnnal28972nna;;Schulsozialarbeit,Sekretariat;Sekretariat, Schulsozialarbeit;
-kcline;Kevin Cline;;;Lehrkraefte;;
+testguy;Test Guy;M5bzE1Q6W7K3;fred@uhurunet.com;Afcom Dubai;;1 GB
